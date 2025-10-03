@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudos iframe</title>
+</head>
+
+<body>
+    <h1>Testando o uso de iframes</h1>
+    <p>Acessando o site do CursoemVideo para aprender a progamar</p>
+
+    <iframe src="https://www.google.com/maps/embed?pb=..." width="300" height="150" style="border:0;" allowfullscreen=""
+        loading="lazy">
+    </iframe>
+    <div id="container"></div>
+
+<script>
+  const iframe = document.createElement("iframe");
+  iframe.src = "https://www.example.com";
+  iframe.width = "600";
+  iframe.height = "400";
+  document.getElementById("container").appendChild(iframe);
+</script>
+
+
+</body>
+
+</html>
