@@ -53,5 +53,7 @@ O objetivo é consolidar os conhecimentos adquiridos e aplicar boas práticas de
 
 - [Desafio Site Cordel](https://abrunos94.github.io/Estudo-Html-Css/Html-Css/exercicios/site-cordel/)
 
+- [Projeto Redes sociais](https://abrunos94.github.io/Estudo-Html-Css/Html-Css/exercicios/Projeto%20redes%20sociais/)
+
 
 
